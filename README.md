@@ -16,5 +16,4 @@ I'm a Software Engineer Passionate about problem-solving and building efficient 
 ## 🔗 Links
 - **LinkedIn**: https://www.linkedin.com/in/mohamed-khaledd/
 - **Codeforces**: https://codeforces.com/profile/your-profile](https://codeforces.com/profile/mohamedIbnKhaled
-- 
 
