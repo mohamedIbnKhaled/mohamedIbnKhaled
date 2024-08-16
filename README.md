@@ -8,9 +8,9 @@ I'm a Software Engineer Passionate about problem-solving and building efficient 
 - **Tools & Platforms**: ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## 🚀 What I'm Learning
-- still learning more about problem-solving
-- trying to be better in Java and Spring Boot
-- focusing on strengthening my foundational skills
+- Still learning more about problem-solving
+- Trying to be better in Java and Spring Boot
+- Focusing on strengthening my foundational skills
 ## 🎨 Hobbies
 - **video games**: I love to play video games with good stories.
 - **chess**: I love playing it but I am not that good at it still learning 😄
