@@ -12,8 +12,8 @@ I'm a Software Engineer Passionate about problem-solving and building efficient 
 - Trying to be better in Java and Spring Boot
 - Focusing on strengthening my foundational skills
 ## 🎨 Hobbies
-- **video games**: I love to play video games with good stories.
-- **chess**: I love playing it but I am not that good at it still learning 😄
+- **Video games**: I love to play video games with good stories.
+- **Chess**: I love playing it but I am not that good at it still learning 😄
 ## 🔗 Links
 - **LinkedIn**: https://www.linkedin.com/in/mohamed-khaledd/
 - **Codeforces**: https://codeforces.com/profile/your-profile](https://codeforces.com/profile/mohamedIbnKhaled
