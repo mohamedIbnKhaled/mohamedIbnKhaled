@@ -29,4 +29,4 @@ I'm a Software Engineer Passionate about problem-solving and building efficient 
 
 ## Contact
 
-please reach out to [mohameddkee@gmail.com](mailto:mohameddkee@gmail.com).
+[mohameddkee@gmail.com](mailto:mohameddkee@gmail.com).
