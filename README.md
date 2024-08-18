@@ -17,4 +17,13 @@ I'm a Software Engineer Passionate about problem-solving and building efficient 
 ## 🔗 Links
 - **LinkedIn**: https://www.linkedin.com/in/mohamed-khaledd/
 - **Codeforces**: https://codeforces.com/profile/your-profile](https://codeforces.com/profile/mohamedIbnKhaled
+## 🏆 Achievements
+- Sixth place in ECPC qualification round 2021.
+- Tenth place in ECPC qualification round 2022.
+
+## 🌍 Languages
+- **English**: Fluent
+- **Arabic**: Native
+## 🤝 Collaborate
+- I'm open to collaborating on software engineering and open-source projects. Let's build something great together!
 
