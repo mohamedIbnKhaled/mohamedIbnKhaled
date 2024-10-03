@@ -16,7 +16,7 @@ I'm a Software Engineer Passionate about problem-solving and building efficient 
 - **Chess**: I love playing it but I am not that good at it still learning 😄
 ## 🔗 Links
 - **LinkedIn**: https://www.linkedin.com/in/mohamed-khaledd/
-- **Codeforces**: https://codeforces.com/profile/your-profile](https://codeforces.com/profile/mohamedIbnKhaled
+- **Codeforces**: https://codeforces.com/profile/mohamedIbnKhaled
 ## 🏆 Achievements
 - Sixth place in ECPC qualification round 2021.
 - Tenth place in ECPC qualification round 2022.
